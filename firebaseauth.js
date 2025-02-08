@@ -3,7 +3,7 @@ import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword } f
 import { getFirestore, setDoc, doc } from "https://www.gstatic.com/firebasejs/11.2.0/firebase-firestore.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBLJ5Z0s6LqXzq-FmgsfMqo4r0JEXlRyQg",
+  apiKey: " ",
   authDomain: "login-page-8d2ab.firebaseapp.com",
   projectId: "login-page-8d2ab",
   storageBucket: "login-page-8d2ab.appspot.com",
